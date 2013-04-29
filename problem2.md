@@ -11,13 +11,15 @@ We have four cases where n = 5,15,23,38 respectively
 
 ### N = 15
 
+![15](15.png)
 
 ### N = 23
 
+![23](23.png)
 
 ### N = 38
 	
-
+![38](38.png)
 			
 
 
