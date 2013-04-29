@@ -26,13 +26,16 @@ We have four cases where n = 5,15,23,38 respectively
 From the above histograms, we can see that values obtained after moding any prime with N  have nearly equal frequencies for primes
 upto 10^7. 
 
-This means that there exists a set P = {\\[  P_1\\], \\[  P_2\\], \\[  P_3\\], \\[  P_4\\],....,\\[  P_M\\]}  where each
-\\[  P_i\\] is a set of primes, such that all elements in this set when moded with N yield the same number.
+This means that there exists a set ![Set Equation](setequation.png)  where each
+![P_i](pi.png) is a set of primes, such that all elements in this set when moded with N yield the same remainder.
 
-We can also conclude that conversely, for any N there exists the a set P as descirbes above, such that every
-\\[  P_i\\] in P contains an infinitely many primes which are congruent to a \\[  p_i\\] mod N.
+We can also conclude that conversely, for any N there exists a set P as descirbes above, where
+![P_i](pi.png) in P contains infinitely many primes such that all primes in ![P_i](pi.png)
+when moded with N yield the same number. 
 
-
+Hence, there are infinitely many primes that make up infinitely many subsets of the type ![P_i](pi.png)
+representing the congruency of all ![Small P_i](smallpi.png) in ![P_i](pi.png) when any ![Small P_i](smallpi.png)
+is moded with N
 
 
 
