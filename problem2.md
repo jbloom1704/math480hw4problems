@@ -29,13 +29,12 @@ upto 10^7.
 This means that there exists a set ![Set Equation](setequation.png)  where each
 ![P_i](pi.png) is a set of primes, such that all elements in ![P_i](pi.png) when moded with N yield the same remainder.
 
-We can also conclude that conversely, for any N there exists a set P as descirbes above, where
+We can also conclude that conversely, for any N there exists a set P as descirbes above, where each
 ![P_i](pi.png) in P contains infinitely many primes such that all primes in ![P_i](pi.png)
 when moded with N yield the same number. 
 
 Hence, there are infinitely many primes that make up infinitely many subsets of the type ![P_i](pi.png)
-representing the congruency of all ![Small P_i](smallpi.png) in ![P_i](pi.png) when any ![Small P_i](smallpi.png)
-is moded with N
-
+representing the congruency of all primes in ![P_i](pi.png) such that they all yield the same remainder
+when moded with N.
 
 
