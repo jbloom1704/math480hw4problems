@@ -7,6 +7,7 @@ We have four cases where n = 5,15,23,38 respectively
 
 ### N = 5
 
+![5](5.png)
 
 ### N = 15
 
