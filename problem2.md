@@ -27,7 +27,7 @@ From the above histograms, we can see that values obtained after moding any prim
 upto 10^7. 
 
 This means that there exists a set ![Set Equation](setequation.png)  where each
-![P_i](pi.png) is a set of primes, such that all elements in this set when moded with N yield the same remainder.
+![P_i](pi.png) is a set of primes, such that all elements in ![P_i](pi.png) when moded with N yield the same remainder.
 
 We can also conclude that conversely, for any N there exists a set P as descirbes above, where
 ![P_i](pi.png) in P contains infinitely many primes such that all primes in ![P_i](pi.png)
