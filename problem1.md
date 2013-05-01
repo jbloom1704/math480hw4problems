@@ -8,11 +8,11 @@ Solution:
 
 	Consider Dirichlet's theorem of infinitely many primes.
 	for any two positive coprime integers a and d, there are infinitely many primes of the form a + nd
-	, where n = 0. In other words, there are infinitely many primes which are congruent to a modulo d.
+	, where n = 0,1,2,.... In other words, there are infinitely many primes which are congruent to a modulo d.
 	
 	a, a+d, a+2d, a+3d, a+4d,.....
 	
-	Since a and b are integer, then if a and b are relatively co-prime they by Dirichlet's theorem
+	Since a and b are integer, and if a and b are relatively co-prime they by Dirichlet's theorem
 	they generate an arithmetic progression of infinitely many primes.	
 	Now, if x/a is an integer, then										
 	
